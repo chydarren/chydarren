@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=chydarren&show_icons=true" />
 </div>
 
-<h1>About Me</h1>
+<h1>About Me 👨‍💻</h1>
 
 I’m passionate in the power of digitization to streamline daily work processes while ensuring that Cybersecurity safeguards are put in-place. Being determined, I put in a lot of effort and hard work to achieve my goals.
 
@@ -38,3 +38,7 @@ Putting learning at the forefront, my Diploma Final-Year Project (FYP) team and 
 Currently, I’m an Information Security student at the National University of Singapore, as well as a Content Manager of the N0H4TS Overseer’s Office by Division Zero. I’m also focused on honing my technical competencies to level my work-readiness.
 
 Learn, unlearn and relearn. Keep learning.
+
+<h1>Recent Articles 📖</h1>
+
+- [Designing a "Kindergarten Edustorage" to Keep Kindergartens Tidy](https://chydarren.me/post/kindergarten-edustorage/)
