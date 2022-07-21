@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://writeup.chydarren.me"><img src="https://img.shields.io/badge/GitBook-blue?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
 </p>
 
-<div style="display: flex; flex-direction: row; align="center">
+<div style='align="center"'>
 <!--<img class="img" src="https://github-readme-stats.vercel.app/api?username=chydarren&show_icons=true" />-->
 <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=chydarren"/>
 </div>
