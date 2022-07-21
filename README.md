@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=chydarren&show_icons=true" />
 </div>
 
-<h1>About Me 👨‍💻</h1>
+<h2>About Me 👨‍💻</h2>
 
 I’m passionate in the power of digitization to streamline daily work processes while ensuring that Cybersecurity safeguards are put in-place. Being determined, I put in a lot of effort and hard work to achieve my goals.
 
@@ -39,6 +39,6 @@ Currently, I’m an Information Security student at the National University of S
 
 Learn, unlearn and relearn. Keep learning.
 
-<h1>Recent Articles 📖</h1>
+<h2>Recent Articles 📖</h2>
 
 - [Designing a "Kindergarten Edustorage" to Keep Kindergartens Tidy](https://chydarren.me/post/kindergarten-edustorage/)
