@@ -36,7 +36,7 @@ Having graduated with a Diploma in Infocomm Security Management from Singapore P
 
 Putting learning at the forefront, my Diploma Final-Year Project (FYP) team and I were honored to showcase our work with the National Cybersecurity R&D Lab (NUS-NCL) at Singapore International Cyber Week, GovWare Conference 2018. Aside, I have also worked on several web development and/or design projects for several of my clients.
 
-Currently, I’m an Information Security student at the National University of Singapore, as well as a Content Manager of the N0H4TS Overseer’s Office by Division Zero. I’m also focused on honing my technical competencies to level my work-readiness.
+Currently, I’m an Information Security student at the National University of Singapore, as well as an EXCO member of the N0H4TS Community Team by Division Zero. I’m also focused on honing my technical competencies to level my work-readiness.
 
 Learn, unlearn and relearn. Keep learning.
 
