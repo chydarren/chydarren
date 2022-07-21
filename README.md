@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=chydarren&show_icons=true" />
 </div>
 
-<hr>
+<h1>About Me</h1>
 
 I’m passionate in the power of digitization to streamline daily work processes while ensuring that Cybersecurity safeguards are put in-place. Being determined, I put in a lot of effort and hard work to achieve my goals.
 
