@@ -43,3 +43,5 @@ Learn, unlearn and relearn. Keep learning.
 <h2>Recent Articles 📖</h2>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/1" alt="Recent Article 1"> 
