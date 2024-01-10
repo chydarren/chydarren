@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 
 <h2>About Me 👨‍💻</h2>
 
-I’m passionate in the power of digitization to streamline daily work processes while ensuring that Cybersecurity safeguards are put in-place. Being determined, I put in a lot of effort and hard work to achieve my goals.
+I develop Cybersecurity solutions to safeguard digital landscapes and streamline manual processes through automation. 
 
-Having graduated with a Diploma in Infocomm Security Management from Singapore Polytechnic, I’m grateful that I had opportunities to work on Cybersecurity projects and take part in Capture The Flag competitions with my friends. Being able to adapt to changes under challenging circumstances, I embarked on transformative efforts when I took on the role of a Leader for Events Management and Training in my school’s ambassadors team and department IC in Tengah Air Base Medical Centre.
+I am currently an Information Security student at the National University of Singapore. Having graduated with a Diploma in Infocomm Security Management from Singapore Polytechnic, I have experience working on different Cybersecurity projects, participating in Capture-the-Flag competitions, and leading different teams in co-curricular activities. 
 
-Putting learning at the forefront, my Diploma Final-Year Project (FYP) team and I were honored to showcase our work with the National Cybersecurity R&D Lab (NUS-NCL) at Singapore International Cyber Week, GovWare Conference 2018. Aside, I have also worked on several web development and/or design projects for several of my clients.
+I have been awarded the Singapore Digital (SG:D) Scholarship by IMDA and CSA during my studies in Polytechnic and University. In addition, I was honoured to showcase my Diploma Final Year Project (FYP) with the National Cybersecurity R&D Lab (NUS-NCL) at Singapore International Cyber Week, GovWare Conference in 2018.
 
-Currently, I’m an Information Security student at the National University of Singapore, as well as an EXCO member of the N0H4TS Community Team by Division Zero. I’m also focused on honing my technical competencies to level my work-readiness.
+Specialties:
 
-Learn, unlearn and relearn. Keep learning.
+Penetration Testing, Software Engineering, Systems Security, Cybersecurity Compliance and Regulation
 
 <h2>Recent Articles 📖</h2>
 
