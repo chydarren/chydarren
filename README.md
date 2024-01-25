@@ -39,9 +39,3 @@ I have been awarded the Singapore Digital (SG:D) Scholarship by IMDA and CSA dur
 Specialties:
 
 Penetration Testing, Software Engineering, Systems Security, Cybersecurity Compliance and Regulation
-
-<h2>Recent Articles 📖</h2>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chydarren/1" alt="Recent Article 1"> 
