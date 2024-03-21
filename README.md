@@ -38,4 +38,4 @@ I have been awarded the Singapore Digital (SG:D) Scholarship by IMDA and CSA dur
 
 Specialties:
 
-Penetration Testing, Software Engineering, Systems Security, Cybersecurity Compliance and Regulation
+Penetration Testing, Software Engineering, Digital Forensics, Systems Security, Cybersecurity Compliance and Regulation
