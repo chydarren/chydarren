@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="https://www.linkedin.com/in/chuahanyongdarren/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@chydarren"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://chydarren.me"><img src="https://img.shields.io/badge/Website-yellowgreen?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;
   <!--<a href="https://writeup.chydarren.me"><img src="https://img.shields.io/badge/GitBook-blue?style=for-the-badge&logo=gitbook&logoColor=white"/></a>-->
 </p>
 
